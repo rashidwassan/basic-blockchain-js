@@ -1,3 +1,5 @@
+// Block data model
+
 {
     "hash": "",
     "height": 0,
