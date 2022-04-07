@@ -1,5 +1,4 @@
 const SHA256 = require('crypto-js/sha256');
-const level = require('level');
 
 class Block {
     constructor(data) {
